@@ -1,0 +1,34 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "mObywatel (1).zip"
+  ],
+  "treeExpansionsV2": [],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "A.a",
+      "subPath": "java",
+      "caret": 187,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "C:\\Users\\Igor\\AppData\\Local\\skylot\\jadx\\cache\\projects\\mObywatel (1)-97a0c73eaaacdd7e69cd8bd003acd334",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}
